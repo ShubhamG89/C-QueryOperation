@@ -1,0 +1,15 @@
+C:\Users\susha\source\repos\QueryOperation\bin\Debug\net6.0\QueryOperation.exe
+C:\Users\susha\source\repos\QueryOperation\bin\Debug\net6.0\QueryOperation.deps.json
+C:\Users\susha\source\repos\QueryOperation\bin\Debug\net6.0\QueryOperation.runtimeconfig.json
+C:\Users\susha\source\repos\QueryOperation\bin\Debug\net6.0\QueryOperation.dll
+C:\Users\susha\source\repos\QueryOperation\bin\Debug\net6.0\QueryOperation.pdb
+C:\Users\susha\source\repos\QueryOperation\obj\Debug\net6.0\QueryOperation.csproj.AssemblyReference.cache
+C:\Users\susha\source\repos\QueryOperation\obj\Debug\net6.0\QueryOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susha\source\repos\QueryOperation\obj\Debug\net6.0\QueryOperation.AssemblyInfoInputs.cache
+C:\Users\susha\source\repos\QueryOperation\obj\Debug\net6.0\QueryOperation.AssemblyInfo.cs
+C:\Users\susha\source\repos\QueryOperation\obj\Debug\net6.0\QueryOperation.csproj.CoreCompileInputs.cache
+C:\Users\susha\source\repos\QueryOperation\obj\Debug\net6.0\QueryOperation.dll
+C:\Users\susha\source\repos\QueryOperation\obj\Debug\net6.0\refint\QueryOperation.dll
+C:\Users\susha\source\repos\QueryOperation\obj\Debug\net6.0\QueryOperation.pdb
+C:\Users\susha\source\repos\QueryOperation\obj\Debug\net6.0\QueryOperation.genruntimeconfig.cache
+C:\Users\susha\source\repos\QueryOperation\obj\Debug\net6.0\ref\QueryOperation.dll
