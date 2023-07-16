@@ -1,0 +1,15 @@
+C:\Users\susha\source\repos\product\bin\Debug\net6.0\product.exe
+C:\Users\susha\source\repos\product\bin\Debug\net6.0\product.deps.json
+C:\Users\susha\source\repos\product\bin\Debug\net6.0\product.runtimeconfig.json
+C:\Users\susha\source\repos\product\bin\Debug\net6.0\product.dll
+C:\Users\susha\source\repos\product\bin\Debug\net6.0\product.pdb
+C:\Users\susha\source\repos\product\obj\Debug\net6.0\product.csproj.AssemblyReference.cache
+C:\Users\susha\source\repos\product\obj\Debug\net6.0\product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susha\source\repos\product\obj\Debug\net6.0\product.AssemblyInfoInputs.cache
+C:\Users\susha\source\repos\product\obj\Debug\net6.0\product.AssemblyInfo.cs
+C:\Users\susha\source\repos\product\obj\Debug\net6.0\product.csproj.CoreCompileInputs.cache
+C:\Users\susha\source\repos\product\obj\Debug\net6.0\product.dll
+C:\Users\susha\source\repos\product\obj\Debug\net6.0\refint\product.dll
+C:\Users\susha\source\repos\product\obj\Debug\net6.0\product.pdb
+C:\Users\susha\source\repos\product\obj\Debug\net6.0\product.genruntimeconfig.cache
+C:\Users\susha\source\repos\product\obj\Debug\net6.0\ref\product.dll
